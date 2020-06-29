@@ -1,5 +1,3 @@
-```greeting```
- ``` puts "Hello World"```
-
-
-```greeting```
+def greeting
+puts  "Hello World"
+end
