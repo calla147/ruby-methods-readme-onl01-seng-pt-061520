@@ -1,5 +1,5 @@
-```greeting
-  puts "Hello World"
+```greeting```
+ ``` puts "Hello World"```
 
 
-greeting```
+```greeting```
